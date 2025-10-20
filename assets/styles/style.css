@@ -76,7 +76,7 @@
         line-height: var(--lh-140);
 
         color: var(--color__grey-500);
-        background-color: var(--color__white);
+        background-color: var(--color__grey-200);
     }
 
     main {
